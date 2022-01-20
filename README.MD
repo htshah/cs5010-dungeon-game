@@ -2,7 +2,7 @@
 
 This project implements a Dungeon game which consists of a grid of caves and tunnels through
 which the player moves in order to reach the end location. The player is free to move in any
-of the available directions and can pick treasure if he/she wants to. The player has the abilities
+of the available directions and can pick treasure if they wants to. The player has the abilities
 to move, pick arrows and treasures and shooting arrows. The game has a number of monsters, each
 located in a cave that has the ability to kill the player in one shot. On the other hand, its takes
 two shots of an arrow to kill the monster. The player can be located at a distance and shoot an
@@ -72,6 +72,7 @@ game via GUI or command-line.
 ## Description of the example
 
 ### GUI-mode example
+<img src="GUI-sample.png"/>
 1. The `res/GUI-sample.png` image shows the actual game screen that is divided into two parts:
    1. The left part shows the dungeon with only the explored locations, player's current location and details about different locations
    2. The right part has 2 components:
